@@ -32,9 +32,9 @@ Publish the website in the given URL.
 Figma
 
 ## OUTPUT:
-![OUTPUT](./out 1.png)
-![OUTPUT](./out 2.png)
-![OUTPUT](./out 3.png)
+![OUTPUT](./out1.PNG)
+![OUTPUT](./out2.PNG)
+![OUTPUT](./out3.PNG)
 
 ## Code:
 ```
